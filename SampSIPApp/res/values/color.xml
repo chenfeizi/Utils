@@ -1,0 +1,7 @@
+<resources>
+	<color name="trans">#00000000</color>
+	
+	<!-- 标题栏颜色 -->
+	<color name="top_color">#E03E3F</color>
+	
+</resources>
